@@ -1,4 +1,4 @@
-name: voila-gallery-country-indicators
+name: new_env
 channels:
   - conda-forge
 dependencies:
