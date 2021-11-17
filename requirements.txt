@@ -7,3 +7,5 @@ pandas==1.1.3
 scipy==1.5.2
 seaborn==0.11.0
 matplotlib==3.3.2
+xlrd==2.0.1
+openpyxl=3.0.9
